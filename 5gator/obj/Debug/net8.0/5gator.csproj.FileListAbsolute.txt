@@ -1,0 +1,14 @@
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\bin\Debug\net8.0\5gator.exe
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\bin\Debug\net8.0\5gator.deps.json
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\bin\Debug\net8.0\5gator.runtimeconfig.json
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\bin\Debug\net8.0\5gator.dll
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\bin\Debug\net8.0\5gator.pdb
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\obj\Debug\net8.0\5gator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\obj\Debug\net8.0\5gator.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\obj\Debug\net8.0\5gator.AssemblyInfo.cs
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\obj\Debug\net8.0\5gator.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\obj\Debug\net8.0\5gator.dll
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\obj\Debug\net8.0\refint\5gator.dll
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\obj\Debug\net8.0\5gator.pdb
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\obj\Debug\net8.0\5gator.genruntimeconfig.cache
+C:\Users\sebas\Documents\SEBWU24\ÖVNINGAR\C#\5gator\5gator\obj\Debug\net8.0\ref\5gator.dll
